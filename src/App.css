@@ -1,0 +1,139 @@
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap-reverse;
+  height: 150px;
+  align-items: center;
+  background-color: #093b41;
+  color: white;
+  font-size: 20px;
+  
+}
+.projectsol {
+  
+  color: black;
+  display: grid;
+  text-align: center;
+  
+}
+.projectsh2{
+  text-align: center;
+  padding-left: 40px;
+  padding-top: 150px;
+  margin-top: 0px;
+}
+section {
+  background-image: linear-gradient(#093b41,whitesmoke);
+  height: 600px;
+  text-align: center;
+  
+  
+}
+li{
+  
+ 
+  
+  list-style-type: none;
+  
+  
+}
+
+footer {
+  background-color: black;
+  height: 75px;
+  border: 2px double whitesmoke;
+  color: white;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
+#main-div {
+  
+  background-color: whitesmoke;
+  background-image: linear-gradient(#093b41,whitesmoke);
+  text-align: center;
+  height: 70%;
+  margin-top: 0px;
+  padding-top: 80px;
+  padding-bottom: 15%;
+  
+  
+
+}
+h1 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 50px;
+
+  
+}
+#skills {
+  font-size: 40px;
+}
+p{
+  font-size: 30px;
+}
+li a:hover {
+  color: black;
+  background-color: gray;
+}
+
+
+a {
+  color: aliceblue;
+}
+img {
+  padding-right:  20px;
+}
+
+#about {
+  background-color: whitesmoke;
+  background-image: linear-gradient(#093b41,whitesmoke);
+  text-align: center;
+  height: 300px;
+  margin-top: 0px;
+  padding-top: 80px;
+}
+
+#projects-li {
+  color: black;
+}
+ol{
+  padding-left: 0px;
+}
+button{
+  width: 120px;
+  height: 40px;
+  font-size: large;
+  border-radius: 30px;
+}
+button:hover {
+  background-color: darkgray;
+}
+.input {
+  width: 200px;
+  height: 25px;
+  
+  border-radius: 30px;
+  text-align: center;
+  
+
+}
+.textarea {
+  width: 300px;
+  height: 200px;
+  border-radius: 30px;
+  text-align: center;
+}
+ul li:hover{
+  background-color: darkgray;
+}
