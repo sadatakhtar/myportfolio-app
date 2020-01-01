@@ -10,11 +10,13 @@ function Projects(){
         <h1>Projects</h1>
         <p><img src={data} alt="web logo" height="50px" width="50px" /></p>
         <ol>
-            <li><a href="https://codepen.io/shadowak47/pen/QxpgXL" target="_blank">Tribute Page</a></li>
-            <li><a href="https://codepen.io/shadowak47/pen/vYEeYgK" target="_blank">Landing Page</a></li>
-            <li><a href="https://codepen.io/shadowak47/pen/zYxZzZo" target="_blank">Survey Form</a></li>
-            <li>Python NewsFeeder</li>
-            <li>Network Pen-tester(Python)</li>
+            <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/QxpgXL" target="_blank">Tribute Page</a></li>
+            <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/vYEeYgK" target="_blank">Landing Page</a></li>
+            <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/zYxZzZo" target="_blank">Survey Form</a></li>
+            <li><a id="pro-links" href="https://github.com/sadatakhtar/py-newsFeeder/blob/master/newsFeeder.py"
+             target="_blank">Python NewsFeeder</a></li>
+            <li><a id="pro-links" href="https://github.com/sadatakhtar/net-H-toolz/blob/master/netH.py" 
+            target="_blank">Network Pen-tester(Python)</a></li>
         </ol>
         <p id="skills">HTML | CSS | JavaScript | React | NodeJS | Python</p>
         <Icons />

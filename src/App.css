@@ -87,7 +87,13 @@ li a:hover {
   background-color: gray;
 }
 
-
+#pro-links {
+  color: black;
+}
+#pro-links:hover {
+  color: greenyellow;
+  font-size: 24px;
+}
 a {
   color: aliceblue;
 }
