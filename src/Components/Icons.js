@@ -1,8 +1,8 @@
 import React from 'react';
-import Linkedin from './linkedin.svg';
-import Twitter from './twitter.svg';
-import Logo2 from './gmail.svg';
-import Github from './github-sign.svg';
+import Linkedin from './linkedincolored.svg';
+import Twitter from './twittercolored.svg';
+import Logo2 from './gmailcolored.svg';
+import Github from './githubcolored.svg';
 
 function Icons (){
     return (

@@ -11,7 +11,8 @@ function Projects(){
         <p><img src={data} alt="web logo" height="50px" width="50px" /></p>
         <ol>
             <li><a href="https://codepen.io/shadowak47/pen/QxpgXL" target="_blank">Tribute Page</a></li>
-            <li>Landing Page</li>
+            <li><a href="https://codepen.io/shadowak47/pen/vYEeYgK" target="_blank">Landing Page</a></li>
+            <li><a href="https://codepen.io/shadowak47/pen/zYxZzZo" target="_blank">Survey Form</a></li>
             <li>Python NewsFeeder</li>
             <li>Network Pen-tester(Python)</li>
         </ol>
