@@ -1,6 +1,7 @@
 import React from 'react';
 import Icons from './Icons';
 import email from './email.svg';
+import contact from './contact.html';
 
 
 function Contact(){
@@ -8,7 +9,8 @@ function Contact(){
         <div id="main-div">
         <h1>Contact Page</h1>
         <p><img src={email} alt="email" height="50px" width="50px" /></p>
-        <form name="emailform" method="POST" data-netlify="true">
+        <form name="emailform" method="POST">
+        <input type="hidden" name="form-name" value="contact" />
             <p>
                  <label>
                     <input className="input" type="text" name="name" placeholder="Full name" />

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+</head>
+<body>
+    <form name="contact" method="POST" netlify netlify-honeypot="bot-field" hidden>
+        <p>
+             <label>
+                <input className="input" type="text" name="name" placeholder="Full name" />
+             </label>
+         </p>
+         <p>
+             <label> 
+                <input className="input" type="email" name="email" placeholder="E-mail" required />
+            </label>
+         </p>
+               
+        <p>
+             <label>
+                 <input className="input" type="phone" name="phone" placeholder="Mobile" optional/>
+             </label>
+         </p>
+            
+         <p>
+             <label>
+                 <textarea className="textarea" name="message" height="200px" width="300px" placeholder="Your message"></textarea>
+             </label>
+         </p>
+         <p>
+             <button type="submit">Send</button>
+         </p>
+    </form>
+    
+</body>
+</html>
