@@ -14,7 +14,7 @@ function App() {
     <Router>
     <div>
       <Header />
-      <Route path="/Components/Main" component={Main} />
+      <Route path="/App" component={App} />
       <Route path="/Components/About" component={About} />
       <Route path="/Components/Projects" component={Projects} />
       <Route path="/Components/Contact" component={Contact} />
