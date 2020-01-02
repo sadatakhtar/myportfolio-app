@@ -8,7 +8,7 @@ function Contact(){
         <div id="main-div">
         <h1>Contact Page</h1>
         <p><img src={email} alt="email" height="50px" width="50px" /></p>
-        <form name="contact-form" method="post" netlify>
+        <form name="emailform" method="POST" data-netlify="true">
             <p>
                  <label>
                     <input className="input" type="text" name="name" placeholder="Full name" />
