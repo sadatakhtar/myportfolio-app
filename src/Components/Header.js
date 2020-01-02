@@ -24,9 +24,9 @@ function Header (){
                 <li>Projects</li>
                 </Link>
 
-                <link to="/Components/Cv">
+                <Link to="/Components/Cv">
                 <li>CV</li>
-                </link>
+                </Link>
 
                 <Link to="/Components/About">
                 <li>About</li>
