@@ -10,7 +10,7 @@ function Contact(){
         <div id="main-div">
         <h1>Contact Page</h1>
         <p><img src={email} alt="email" height="50px" width="50px" /></p>
-        <form action="/Thanks" name="emailform" method="POST">
+        <form name="emailform" method="POST">
         <input type="hidden" name="form-name" value="contact" />
             <p>
                  <label>
