@@ -19,10 +19,15 @@ function Header (){
                 <Link to="/Components/Main">
                 <li>Home</li>
                 </Link>
+
                 <Link to="/Components/Projects">
                 <li>Projects</li>
                 </Link>
-                <li><a href="/Components/Cv">CV</a></li>
+
+                <link to="/Components/Cv">
+                <li>CV</li>
+                </link>
+
                 <Link to="/Components/About">
                 <li>About</li>
                 </Link>
