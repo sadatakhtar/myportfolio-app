@@ -16,9 +16,9 @@ function Header (){
             <ul> 
 
             
-                
-                <li><a href="#">Home</a></li>
-                
+                <Link to="/Components/Main">
+                <li>Home</li>
+                </Link>
 
                 <Link to="/Components/Projects">
                 <li>Projects</li>
