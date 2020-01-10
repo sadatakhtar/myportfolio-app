@@ -6,7 +6,7 @@ function About(){
         <div id="main-div">
         <h1><u>About me</u></h1>
         <p>
-        My name is Sadat Akhtar, I'm an aspiring 40 yrs old junior web developer and 
+        My name is Sadat Akhtar, I'm an aspiring junior web developer and 
         a massive star wars fan. I have always loved playing about with computers and have never
         had a chance in pursuing this as a career. Recently I have decided to change career paths 
         from  electrics to web development.
