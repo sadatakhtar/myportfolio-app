@@ -13,27 +13,27 @@ function Header (){
             
             
         
-            <ul> 
+            <ul id="ul"> 
 
             
                 <Link to="/Components/Main">
-                <li>Home</li>
+                <li id="li">Home</li>
                 </Link>
 
                 <Link to="/Components/Projects">
-                <li>Projects</li>
+                <li id="li">Projects</li>
                 </Link>
 
                 <Link to="/Components/Cv">
-                <li>CV</li>
+                <li id="li">CV</li>
                 </Link>
 
                 <Link to="/Components/About">
-                <li>About</li>
+                <li id="li">About</li>
                 </Link>
                
                <Link to="/Components/Contact">
-                <li>Contact</li>
+                <li id="li">Contact</li>
                 </Link>
                
                
