@@ -148,6 +148,6 @@ button:hover {
   border-radius: 30px;
   text-align: center;
 }
-ul li:hover{
+#ul li:hover{
   background-color: darkgray;
 }
