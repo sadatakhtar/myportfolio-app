@@ -14,7 +14,7 @@ function Icons (){
        <a href="https://twitter.com/SadatAkhtar"><img src={Twitter}
         alt="twitter logo" height="50px" width="50px" target="_blank"/></a>
 
-        <a href="./Contact"><img src={Logo2}
+        <a href="#"><img src={Logo2}
         alt="logo2" height="50px" width="50px"/></a>
 
         <a href="https://github.com/sadatakhtar"><img src={Github}

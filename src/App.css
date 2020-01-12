@@ -75,18 +75,23 @@ footer {
 }
 #hobby{
   list-style-type: none;
+  padding-right: 20px;
   
+}
+#main-p{
+  font-weight: 100;
 }
 h1 {
   margin-top: 0px;
   margin-bottom: 0px;
   font-size: 50px;
   font-family: Arial, Helvetica, sans-serif;
-
+  font-weight: 100;
   
 }
 #cv-h2{
   padding-right: 35px;
+  font-weight: 100;
   
 }
 #cv-link {
@@ -102,6 +107,13 @@ h1 {
 }
 p{
   font-size: 30px;
+  
+}
+#hobby-h2{
+  padding-right: 35px;
+}
+#about-p1, #about-p2, #about-p3, #about-p4{
+  font-weight: 100;
 }
 #li a:hover {
   color: black;

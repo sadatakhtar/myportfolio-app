@@ -8,7 +8,7 @@ function Main(){
         <div id="main-div">
         <h1>Sadat Akhtar</h1>
         <p><img src={programmer} alt="coding" height="50px" width="50px" /></p>
-        <p>Aspiring Junior Web Developer<br />
+        <p id="main-p">Aspiring Junior Web Developer<br />
          Passionate about coding</p>
         <p id="skills">HTML | CSS | JavaScript | React | NodeJS | Python</p>
         <Icon />
