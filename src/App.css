@@ -3,7 +3,7 @@
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  border: 1px solid hotpink;
+  
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -94,7 +94,7 @@ h1 {
   
 }
 #cv-link:hover{
-  color: hotpink;
+  color: #4C8BBF;
 }
 
 #skills {
@@ -115,11 +115,12 @@ p{
   color: black;
 }
 #pro-links:hover {
-  color: hotpink;
+  color: #4C8BBF;
   font-size: 24px;
 }
 a {
   color: aliceblue;
+  text-decoration: none;
 }
 img {
   padding-right:  20px;
@@ -142,7 +143,7 @@ ol{
 }
 button{
   color: white;
-  background-color: hotpink;
+  background-color: #4C8BBF;
   width: 120px;
   height: 40px;
   font-size: large;
@@ -167,6 +168,7 @@ button:hover {
   text-align: center;
 }
 #ul li:hover{
-  color: hotpink;
+  color: #4C8BBF;
+  
   
 }
