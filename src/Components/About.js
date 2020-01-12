@@ -4,7 +4,7 @@ import Icons from './Icons';
 function About(){
     return (
         <div id="main-div">
-        <h1><u>About me</u></h1>
+        <h1>About me</h1>
         <p id="about-p1">
         My name is Sadat Akhtar, I'm an aspiring junior web developer and 
         a massive star wars fan. I have always loved playing about with computers and have never
@@ -31,7 +31,7 @@ function About(){
         me with a great structure of learning web development together with building a portfolio 
         of simple projects. 
         </p>
-        <h2 id="hobby-h2"><u>Hobbies</u></h2>
+        <h2 id="hobby-h2">Hobbies</h2>
         <ul id="hobby">
             <li id="hobby">Badminton</li>
             <li id="hobby">Snooker</li>

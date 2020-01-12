@@ -81,6 +81,7 @@ footer {
 #main-p{
   font-weight: 100;
 }
+
 h1 {
   margin-top: 0px;
   margin-bottom: 0px;
@@ -155,14 +156,14 @@ ol{
 }
 button{
   color: white;
-  background-color: #4C8BBF;
+  background-color: black;
   width: 120px;
   height: 40px;
   font-size: large;
   border-radius: 30px;
 }
 button:hover {
-  background-color: darkgray;
+  background-color: #4C8BBF;
 }
 .input {
   width: 200px;

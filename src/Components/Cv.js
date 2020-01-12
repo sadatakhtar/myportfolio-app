@@ -6,7 +6,7 @@ function Cv(){
     return (
         <div id="main-div">
 
-        <h1><u>Curriculum Vitae</u></h1>
+        <h1>Curriculum Vitae</h1>
         <p><img src={curriculam} alt="cv-logo" width="60px" height="70px" /></p>
         <h2 id="cv-h2"><a id="cv-link" href="https://docs.google.com/document/d/1G4FfqLL1H-fgd2u5E1euYwbFfDHMviE_bkei4VnWyhE/edit?usp=sharing" 
         target="_blank">Click here to view CV</a></h2>
