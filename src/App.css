@@ -85,6 +85,18 @@ h1 {
 
   
 }
+#cv-h2{
+  padding-right: 35px;
+  
+}
+#cv-link {
+  color: black;
+  
+}
+#cv-link:hover{
+  color: greenyellow;
+}
+
 #skills {
   font-size: 40px;
 }
@@ -94,6 +106,9 @@ p{
 #li a:hover {
   color: black;
   background-color: gray;
+}
+#project-img{
+  padding-left: 20px;
 }
 
 #pro-links {

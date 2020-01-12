@@ -8,7 +8,7 @@ function Projects(){
         <div id="main-div">
         
         <h1><u>Projects</u></h1>
-        <p><img src={data} alt="web logo" height="50px" width="50px" /></p>
+        <p id="project-img"><img src={data} alt="web logo" height="50px" width="50px" /></p>
         <ol>
             <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/QxpgXL" target="_blank">Tribute Page</a></li>
             <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/vYEeYgK" target="_blank">Landing Page</a></li>
