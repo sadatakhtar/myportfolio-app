@@ -11,6 +11,7 @@ function Projects(){
         <p id="project-img"><img src={data} alt="web logo" height="50px" width="50px" /></p>
         <ol>
             <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/QxpgXL" target="_blank">Tribute Page</a></li>
+         <li><a id="pro-links" href="https://www.khanacademy.org/computing/computer-programming/programming/animation-basics/pp/project-shooting-star" target="_blank">Shooting Star</a></li>
             <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/vYEeYgK" target="_blank">Landing Page</a></li>
             <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/zYxZzZo" target="_blank">Survey Form</a></li>
             <li><a id="pro-links" href="https://github.com/sadatakhtar/py-newsFeeder/blob/master/newsFeeder.py"
