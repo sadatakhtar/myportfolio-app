@@ -8,8 +8,9 @@ import Thanks from './Thanks';
 function Contact(){
     return (
         <div id="main-div">
-        <h1>Contact Page</h1>
-        <p><img id="contactpic" src={email} alt="email" height="50px" width="50px" /></p>
+            <h1>Contact Page</h1>
+            <p><img id="contactpic" src={email} alt="email" height="50px" width="50px" /></p>
+            
         <form name="emailform" method="POST">
         <input type="hidden" name="form-name" value="contact" />
             <p>
