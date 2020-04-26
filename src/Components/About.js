@@ -26,11 +26,7 @@ function About(){
         Cisco Certified Network Associate(CCNA) qualification and am comfortable in general network administrator tasks 
         in both windows and linux platforms.
         </p>
-        <p id="about-p4">
-        I am currently undertaking modules as part of the freecodecamp course which has provided 
-        me with a great structure of learning web development together with building a portfolio 
-        of simple projects. 
-        </p>
+      
         <h2 id="hobby-h2">Hobbies</h2>
         <ul id="hobby">
             <li id="hobby">Badminton</li>
