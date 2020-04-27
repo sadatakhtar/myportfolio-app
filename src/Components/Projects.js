@@ -15,7 +15,7 @@ function Projects(){
             <li><a id="pro-links" href="https://www.khanacademy.org/computer-programming/spin-off-of-project-build-a-house/6301463741612032" target="_blank">Khan academy-Build a house</a></li>
             <li><a id="pro-links" href="https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/4799744209731584" target="_blank">Khan academy-Fish tank</a></li>
             <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/vYEeYgK" target="_blank">Landing Page</a></li>
-            <li><a id="pro-links" href="https://codepen.io/shadowak47/pen/zYxZzZo" target="_blank">Survey Form</a></li>
+            <li><a id="pro-links" href="https://sadatakhtar.github.io/fcc-survey/." target="_blank">Survey Form</a></li>
             <li><a id="pro-links" href="https://github.com/sadatakhtar/py-newsFeeder/blob/master/newsFeeder.py"
              target="_blank">Python NewsFeeder</a></li>
             <li><a id="pro-links" href="https://github.com/sadatakhtar/net-H-toolz/blob/master/netH.py" 
