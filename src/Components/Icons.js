@@ -3,7 +3,7 @@ import Linkedin from './linkedincolored.svg';
 import Twitter from './twittercolored.svg';
 import Logo2 from './gmailcolored.svg';
 import Github from './githubcolored.svg';
-import Contact from './Contact';
+
 
 function Icons (){
     return (
@@ -14,7 +14,7 @@ function Icons (){
        <a href="https://twitter.com/SadatAkhtar"><img src={Twitter}
         alt="twitter logo" height="50px" width="50px" target="_blank"/></a>
 
-        <a href="#"><img src={Logo2}
+        <a href="https://twitter.com/SadatAkhtar"><img src={Logo2}
         alt="logo2" height="50px" width="50px"/></a>
 
         <a href="https://github.com/sadatakhtar"><img src={Github}

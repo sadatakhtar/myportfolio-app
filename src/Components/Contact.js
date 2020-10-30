@@ -1,7 +1,7 @@
 import React from 'react';
 import Icons from './Icons';
 import email from './email.svg';
-import Thanks from './Thanks';
+
 
 
 

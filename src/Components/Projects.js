@@ -11,11 +11,12 @@ function Projects(){
         <p id="project-img"><img src={data} alt="web logo" height="50px" width="50px" /></p>
         <ol>
            
-            <li><a id="pro-links" href="https://netflix-clone-16e6a.web.app/" target="_blank">Netflix Clone</a></li>
-            <li><a id="pro-links" href="https://github.com/sadatakhtar/py-newsFeeder/blob/master/newsFeeder.py"
-             target="_blank">Python NewsFeeder</a></li>
-            <li><a id="pro-links" href="https://github.com/sadatakhtar/net-H-toolz/blob/master/netH.py" 
-            target="_blank">Network Pen-tester(Python)</a></li>
+            <li><a id="pro-links" href="https://netflix-clone-16e6a.web.app/" >Netflix Clone</a></li>
+            <li><a id="pro-links" href="https://myspotify-clone.netlify.app/" >Spotify Clone</a></li>
+            <li><a id="pro-links" href="https://cyf-sadatakhtar-countries.netlify.app/" >Countries App</a></li>
+            <li><a id="pro-links" href="https://cyf-sadatakhtar-tv.netlify.app/">Tv shows</a></li>
+            <li><a id="pro-links" href="https://random-quotes-appserver.netlify.app/" 
+            >Random quotes</a></li>
             
         </ol>
         <p id="skills">HTML | CSS | JavaScript | React | NodeJS | Python</p>

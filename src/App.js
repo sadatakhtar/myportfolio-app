@@ -6,7 +6,7 @@ import Main from './Components/Main';
 import About from './Components/About';
 import Contact from './Components/Contact';
 import Projects from './Components/Projects';
-import { Link, BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import {  BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Thanks from './Components/Thanks';
 import Cv from './Components/Cv';
 
