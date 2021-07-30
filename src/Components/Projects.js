@@ -12,6 +12,7 @@ function Projects(){
         <ol>
             <li><a id="pro-links" href="https://question-mark.netlify.app/">Q&A platform</a></li>
             <li><a id="pro-links" href="https://netflix-clone-16e6a.web.app/" >Netflix Clone</a></li>
+             <li><a id="pro-links" href="https://hulu-clone-umber.vercel.app/" >Hulu Clone</a></li>
             <li><a id="pro-links" href="https://cyf-student-tracker-1.herokuapp.com" >CYF-student tracker</a></li>
             <li><a id="pro-links" href="https://cyf-sadatakhtar-countries.netlify.app/" >Countries App</a></li>
             <li><a id="pro-links" href="https://cyf-sadatakhtar-tv.netlify.app/">Tv shows</a></li>
